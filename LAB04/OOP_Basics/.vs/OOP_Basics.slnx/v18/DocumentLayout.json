@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB581837-2AFE-4C30-A4A8-AE446BE15F56}|OOP_Basics\\OOP_Basics.csproj|d:\\repos\\pt_labs\\lab04\\oop_basics\\oop_basics\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB581837-2AFE-4C30-A4A8-AE446BE15F56}|OOP_Basics\\OOP_Basics.csproj|solutionrelative:oop_basics\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB581837-2AFE-4C30-A4A8-AE446BE15F56}|OOP_Basics\\OOP_Basics.csproj|d:\\repos\\pt_labs\\lab04\\oop_basics\\oop_basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB581837-2AFE-4C30-A4A8-AE446BE15F56}|OOP_Basics\\OOP_Basics.csproj|solutionrelative:oop_basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Date.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_Basics\\OOP_Basics\\Date.cs",
+              "RelativeDocumentMoniker": "OOP_Basics\\Date.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_Basics\\OOP_Basics\\Date.cs",
+              "RelativeToolTip": "OOP_Basics\\Date.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T23:37:46.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_Basics\\OOP_Basics\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Basics\\Program.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_Basics\\OOP_Basics\\Program.cs",
+              "RelativeToolTip": "OOP_Basics\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T23:35:37.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
