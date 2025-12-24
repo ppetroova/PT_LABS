@@ -1,0 +1,7 @@
+D:\REPOS\PT_LABS\LAB06\StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+D:\REPOS\PT_LABS\LAB06\StoreApp\StoreApp\bin\Debug\StoreApp.exe
+D:\REPOS\PT_LABS\LAB06\StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+D:\REPOS\PT_LABS\LAB06\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.AssemblyReference.cache
+D:\REPOS\PT_LABS\LAB06\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB06\StoreApp\StoreApp\obj\Debug\StoreApp.exe
+D:\REPOS\PT_LABS\LAB06\StoreApp\StoreApp\obj\Debug\StoreApp.pdb
