@@ -1,0 +1,7 @@
+D:\REPOS\PT_LABS\LAB05\ComplexNumbersApp\ComplexNumbersApp\bin\Debug\ComplexNumbersApp.exe.config
+D:\REPOS\PT_LABS\LAB05\ComplexNumbersApp\ComplexNumbersApp\bin\Debug\ComplexNumbersApp.exe
+D:\REPOS\PT_LABS\LAB05\ComplexNumbersApp\ComplexNumbersApp\bin\Debug\ComplexNumbersApp.pdb
+D:\REPOS\PT_LABS\LAB05\ComplexNumbersApp\ComplexNumbersApp\obj\Debug\ComplexNumbersApp.csproj.AssemblyReference.cache
+D:\REPOS\PT_LABS\LAB05\ComplexNumbersApp\ComplexNumbersApp\obj\Debug\ComplexNumbersApp.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB05\ComplexNumbersApp\ComplexNumbersApp\obj\Debug\ComplexNumbersApp.exe
+D:\REPOS\PT_LABS\LAB05\ComplexNumbersApp\ComplexNumbersApp\obj\Debug\ComplexNumbersApp.pdb
