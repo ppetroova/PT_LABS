@@ -1,0 +1,7 @@
+D:\REPOS\PT_LABS\LAB07\PostOfficeApp\PostOfficeApp\bin\Debug\PostOfficeApp.exe.config
+D:\REPOS\PT_LABS\LAB07\PostOfficeApp\PostOfficeApp\bin\Debug\PostOfficeApp.exe
+D:\REPOS\PT_LABS\LAB07\PostOfficeApp\PostOfficeApp\bin\Debug\PostOfficeApp.pdb
+D:\REPOS\PT_LABS\LAB07\PostOfficeApp\PostOfficeApp\obj\Debug\PostOfficeApp.csproj.AssemblyReference.cache
+D:\REPOS\PT_LABS\LAB07\PostOfficeApp\PostOfficeApp\obj\Debug\PostOfficeApp.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB07\PostOfficeApp\PostOfficeApp\obj\Debug\PostOfficeApp.exe
+D:\REPOS\PT_LABS\LAB07\PostOfficeApp\PostOfficeApp\obj\Debug\PostOfficeApp.pdb

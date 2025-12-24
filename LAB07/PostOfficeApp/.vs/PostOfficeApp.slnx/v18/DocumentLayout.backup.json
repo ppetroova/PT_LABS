@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|d:\\repos\\pt_labs\\lab07\\postofficeapp\\postofficeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|solutionrelative:postofficeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|d:\\repos\\pt_labs\\lab07\\postofficeapp\\postofficeapp\\postoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|solutionrelative:postofficeapp\\postoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|d:\\repos\\pt_labs\\lab07\\postofficeapp\\postofficeapp\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|solutionrelative:postofficeapp\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|d:\\repos\\pt_labs\\lab07\\postofficeapp\\postofficeapp\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|solutionrelative:postofficeapp\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|d:\\repos\\pt_labs\\lab07\\postofficeapp\\postofficeapp\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|solutionrelative:postofficeapp\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|d:\\repos\\pt_labs\\lab07\\postofficeapp\\postofficeapp\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|solutionrelative:postofficeapp\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|d:\\repos\\pt_labs\\lab07\\postofficeapp\\postofficeapp\\iurgent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921AED5-A60B-4AA6-BF11-7AC29B37A3C9}|PostOfficeApp\\PostOfficeApp.csproj|solutionrelative:postofficeapp\\iurgent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\Program.cs",
+              "RelativeDocumentMoniker": "PostOfficeApp\\Program.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\Program.cs",
+              "RelativeToolTip": "PostOfficeApp\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:58:31.381Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Package.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\Package.cs",
+              "RelativeDocumentMoniker": "PostOfficeApp\\Package.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\Package.cs",
+              "RelativeToolTip": "PostOfficeApp\\Package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:56:29.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostOffice.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\PostOffice.cs",
+              "RelativeDocumentMoniker": "PostOfficeApp\\PostOffice.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\PostOffice.cs",
+              "RelativeToolTip": "PostOfficeApp\\PostOffice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:00:57.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Check.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\Check.cs",
+              "RelativeDocumentMoniker": "PostOfficeApp\\Check.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\Check.cs",
+              "RelativeToolTip": "PostOfficeApp\\Check.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:00:14.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\Box.cs",
+              "RelativeDocumentMoniker": "PostOfficeApp\\Box.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\Box.cs",
+              "RelativeToolTip": "PostOfficeApp\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:59:38.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Letter.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\Letter.cs",
+              "RelativeDocumentMoniker": "PostOfficeApp\\Letter.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\Letter.cs",
+              "RelativeToolTip": "PostOfficeApp\\Letter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:57:29.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUrgent.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\IUrgent.cs",
+              "RelativeDocumentMoniker": "PostOfficeApp\\IUrgent.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB07\\PostOfficeApp\\PostOfficeApp\\IUrgent.cs",
+              "RelativeToolTip": "PostOfficeApp\\IUrgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:55:24.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
